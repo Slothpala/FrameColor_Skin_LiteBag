@@ -1,0 +1,10 @@
+## Interface: 100107
+## Version: 1
+## Title: FrameColor_Skin_LiteBag
+## Author: Slothpala
+##Dependencies: LiteBag, FrameColor
+
+
+
+FrameColor_Skin_LiteBag.lua
+
